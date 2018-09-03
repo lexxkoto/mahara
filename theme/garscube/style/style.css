@@ -29,6 +29,7 @@ body {
     border-bottom: 1px solid #d3d8dc;
     color: #fff;
     background-color: #385a4f;
+    padding: 10px 15px;
 }
 
 .panel .panel.wallpost {
@@ -48,3 +49,22 @@ body {
     color: #fff;
 }
 
+.panel .no-heading .block-container {
+    margin: 10px 15px;
+}
+
+.bt-groupviews .block {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.bt-groupviews .block .list-group {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.bt-groupviews .block hr {
+    margin-left: -15px;
+    margin-right: -15px;
+    border-top-color: #ddd;
+}
